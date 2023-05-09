@@ -16,7 +16,7 @@
 }
 
 html {
-  font-size: 62.5%;
+  font-size: 0.5rem;
 }
 
 body {
@@ -80,14 +80,13 @@ h2 {
 
 .apply {
   display: block;
-  margin: 0 auto;
+  margin: 0 1rem 0 auto;
   padding: 0.5rem 1rem;
   border: none;
   background-color: var(--color-blue);
   color: #ffffff;
   font-weight: 500;
   font-size: 1.8rem;
-  margin-top: 1rem;
   border-radius: 0.5rem;
 }
 
@@ -97,8 +96,7 @@ h2 {
   height: 3rem;
   background-color: transparent;
   border: none;
-  margin: 0 auto;
-  margin-top: 1rem;
+  margin: 0 1rem 0 auto;
   cursor: pointer;
 }
 
